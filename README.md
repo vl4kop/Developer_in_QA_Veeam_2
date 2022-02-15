@@ -1,7 +1,7 @@
 # Developer_in_QA_Veeam_2
 
 Тестовое задание выполнил Водопьянов Валентин
-Ссылка на резуюме https://drive.google.com/file/d/1eSCyneGs8DWNkGNBk1u_aZeoTjqpROxh/view?usp=sharing
+Ссылка на резюме https://drive.google.com/file/d/1eSCyneGs8DWNkGNBk1u_aZeoTjqpROxh/view?usp=sharing
 
 ---
 Тестовое задание
